@@ -17,7 +17,7 @@
                     <TextBox x:Name="txtMark" Width="200" FontSize="24"/>
                 </StackPanel>
                 <StackPanel>
-                    <Label  HorizontalAlignment="Left" Content="Модель:" FontSize="18" Foreground="Aqua" FontWeight="Bold"/>
+                    <Label  HorizontalAlignment="Left" Content="Модель: " FontSize="18" Foreground="Aqua" FontWeight="Bold"/>
                     <TextBox Name="txtModel" Width="200" FontSize="24"/>
                 </StackPanel>
                 <StackPanel>
