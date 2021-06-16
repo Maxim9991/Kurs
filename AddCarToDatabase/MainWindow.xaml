@@ -8,7 +8,7 @@
         Title="Головна сторінка" Height="550" Width="800" Background="BlueViolet">
     <Grid>
         <StackPanel>
-            <Label HorizontalAlignment="Center" Content="Додати автомобіль" FontSize="25" Foreground="Lime" FontWeight="Bold"/>
+            <Label HorizontalAlignment="Center" Content="Додати автомобіль " FontSize="25" Foreground="Lime" FontWeight="Bold"/>
             <Separator/>
 
             <StackPanel HorizontalAlignment="Center" Margin="5">
