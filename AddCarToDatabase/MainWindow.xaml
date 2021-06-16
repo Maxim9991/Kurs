@@ -13,7 +13,7 @@
 
             <StackPanel HorizontalAlignment="Center" Margin="5">
                 <StackPanel>
-                    <Label  HorizontalAlignment="Left" Content="Марка:" FontSize="18" Foreground="Aqua" FontWeight="Bold"/>
+                    <Label  HorizontalAlignment="Left" Content="Марка: " FontSize="18" Foreground="Aqua" FontWeight="Bold"/>
                     <TextBox x:Name="txtMark" Width="200" FontSize="24"/>
                 </StackPanel>
                 <StackPanel>
